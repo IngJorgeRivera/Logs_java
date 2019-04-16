@@ -1,0 +1,203 @@
+[DEBUG] 2019-03-11 16:40:59:170 main.log4j_example.main(log4j_example.java:13) root log4j_example.java:main DEBUG - Debug message
+[INFO] 2019-03-11 16:40:59:173 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main INFO  - Info message
+[WARN] 2019-03-11 16:40:59:173 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main WARN  - Warn message
+[ERROR] 2019-03-11 16:40:59:173 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main ERROR - Error message
+[FATAL] 2019-03-11 16:40:59:173 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main FATAL - Fatal message
+[DEBUG] 2019-03-11 17:01:20:998 main.log4j_example.main(log4j_example.java:13) root log4j_example.java:main DEBUG - Debug message
+[INFO] 2019-03-11 17:01:21:000 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main INFO  - Info message
+[WARN] 2019-03-11 17:01:21:000 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main WARN  - Warn message
+[ERROR] 2019-03-11 17:01:21:000 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main ERROR - Error message
+[FATAL] 2019-03-11 17:01:21:001 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main FATAL - Fatal message
+[DEBUG] 2019-03-11 17:31:30:642 main.log4j_example.main(log4j_example.java:13) root log4j_example.java:main DEBUG - Debug message
+[INFO] 2019-03-11 17:31:30:644 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main INFO  - Info message
+[WARN] 2019-03-11 17:31:30:644 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main WARN  - Warn message
+[ERROR] 2019-03-11 17:31:30:645 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main ERROR - Error message
+[FATAL] 2019-03-11 17:31:30:646 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main FATAL - Fatal message
+[DEBUG] 2019-03-11 17:33:50:702 main.log4j_example.main(log4j_example.java:13) root log4j_example.java:main DEBUG - Debug message Two
+[INFO] 2019-03-11 17:33:50:704 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main INFO  - Info message Tree
+[WARN] 2019-03-11 17:33:50:704 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main WARN  - Warn message Four
+[ERROR] 2019-03-11 17:33:50:704 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main ERROR - Error message Five
+[FATAL] 2019-03-11 17:33:50:704 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main FATAL - Fatal message Six
+[DEBUG] 2019-03-11 18:04:49:435 main.log4j_example.main(log4j_example.java:13) root log4j_example.java:main DEBUG - Debug message Two
+[INFO] 2019-03-11 18:04:49:437 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main INFO  - Info message Tree
+[WARN] 2019-03-11 18:04:49:437 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main WARN  - Warn message Four
+[ERROR] 2019-03-11 18:04:49:437 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main ERROR - Error message Five
+[FATAL] 2019-03-11 18:04:49:438 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main FATAL - Fatal message Six
+[DEBUG] 2019-03-12 10:07:49:334 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Twojose.perez
+[INFO] 2019-03-12 10:07:49:336 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Treepg001cja
+[WARN] 2019-03-12 10:07:49:336 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message FourCJ0176767
+[ERROR] 2019-03-12 10:07:49:336 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message FivepagoC01
+[DEBUG] 2019-03-12 10:08:45:159 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Twojose.perez
+[INFO] 2019-03-12 10:08:45:160 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Treepg001cja
+[WARN] 2019-03-12 10:08:45:161 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message FourCJ0176767
+[ERROR] 2019-03-12 10:08:45:161 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message FivepagoC01
+[DEBUG] 2019-03-12 10:10:23:403 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two jose.perez
+[INFO] 2019-03-12 10:10:23:405 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree pg001cja
+[WARN] 2019-03-12 10:10:23:405 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four CJ0176767
+[ERROR] 2019-03-12 10:10:23:405 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five pagoC01
+[FATAL] 2019-03-12 10:10:23:405 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six v.1.0
+[DEBUG] 2019-03-12 10:12:57:724 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two Usuario: jose.perez
+[INFO] 2019-03-12 10:12:57:726 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree Módulo: pg001cja
+[WARN] 2019-03-12 10:12:57:726 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four Transacción: CJ0176767
+[ERROR] 2019-03-12 10:12:57:726 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five Operación: pagoC01
+[FATAL] 2019-03-12 10:12:57:726 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six Versión: v.1.0
+[DEBUG] 2019-03-12 10:14:40:754 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two Usuario: jose.perez
+[INFO] 2019-03-12 10:14:40:756 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree Modulo: pg001cja
+[WARN] 2019-03-12 10:14:40:756 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four Transaccion: CJ0176767
+[ERROR] 2019-03-12 10:14:40:757 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five Operacion: pagoC01
+[FATAL] 2019-03-12 10:14:40:757 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six Version: v.1.0
+[DEBUG] 2019-03-12 11:52:02:712 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two Usuario: jose.perez
+[INFO] 2019-03-12 11:52:02:714 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree Modulo: pg001cja
+[WARN] 2019-03-12 11:52:02:714 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four Transaccion: CJ0176767
+[ERROR] 2019-03-12 11:52:02:714 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five Operacion: pagoC01
+[FATAL] 2019-03-12 11:52:02:714 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six Version: v.1.0
+[DEBUG] 2019-03-12 12:06:31:133 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two Usuario: jose.perez
+[INFO] 2019-03-12 12:06:31:135 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree Modulo: pg001cja
+[WARN] 2019-03-12 12:06:31:135 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four Transaccion: CJ0176767
+[ERROR] 2019-03-12 12:06:31:135 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five Operacion: pagoC01
+[FATAL] 2019-03-12 12:06:31:135 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six Version: v.1.0
+[DEBUG] 2019-03-12 13:06:09:159 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two Usuario: jose.perez
+[INFO] 2019-03-12 13:06:09:162 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree Modulo: pg001cja
+[WARN] 2019-03-12 13:06:09:162 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:06:09:162 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five Operacion: pagoC01
+[FATAL] 2019-03-12 13:06:09:162 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six Version: v.1.0
+[DEBUG] 2019-03-12 13:21:34:285 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:21:34:287 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:21:34:287 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:21:34:287 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:21:34:287 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:28:20:367 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:28:20:369 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:28:20:369 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:28:20:369 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:28:20:370 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:30:14:114 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:30:14:116 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:30:14:116 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:30:14:116 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:30:14:117 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:46:06:018 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:46:06:020 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:46:06:020 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:46:06:020 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:46:06:020 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:47:40:073 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:47:40:074 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:47:40:075 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:47:40:075 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:47:40:075 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:49:48:062 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:49:48:064 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Tree log Modulo: pg001cja
+[WARN] 2019-03-12 13:49:48:064 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:49:48:064 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:49:48:064 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 13:55:51:527 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 13:55:51:529 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 13:55:51:529 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 13:55:51:529 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 13:55:51:529 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:03:53:343 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:03:53:345 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:03:53:345 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:03:53:346 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:03:53:346 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:05:55:254 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:05:55:256 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:05:55:256 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:05:55:257 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:05:55:257 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:08:09:584 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:08:09:586 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:08:09:586 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:08:09:586 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:08:09:587 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:24:12:097 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:24:12:099 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:24:12:099 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:24:12:099 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:24:12:099 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:28:25:530 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:28:25:532 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:28:25:532 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:28:25:532 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:28:25:533 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:29:49:141 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:29:49:143 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:29:49:143 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:29:49:144 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:29:49:144 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:36:54:689 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:36:54:692 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:36:54:692 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:36:54:692 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:36:54:692 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:47:04:011 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:47:04:014 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:47:04:014 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:47:04:014 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:47:04:014 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 14:48:09:349 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 14:48:09:350 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 14:48:09:351 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 14:48:09:351 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 14:48:09:351 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-12 15:25:37:808 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-12 15:25:37:812 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-12 15:25:37:813 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-12 15:25:37:814 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-12 15:25:37:814 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 14:42:20:71 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 14:42:20:74 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 14:42:20:74 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 14:42:20:74 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 14:42:20:74 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 16:15:26:982 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 16:15:26:984 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 16:15:26:985 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 16:15:26:985 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 16:15:26:985 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 17:00:37:615 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 17:00:37:618 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 17:00:37:618 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 17:00:37:618 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 17:00:37:618 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 17:23:32:97 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 17:23:32:99 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 17:23:32:99 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 17:23:32:99 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 17:23:32:99 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 17:32:13:515 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 17:32:13:517 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 17:32:13:517 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 17:32:13:517 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 17:32:13:517 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 17:35:39:997 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 17:35:39:999 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 17:35:39:999 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 17:35:40:0 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 17:35:40:0 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 17:46:00:614 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 17:46:00:616 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 17:46:00:616 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 17:46:00:617 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 17:46:00:617 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 18:01:44:917 main.Log_example.main(Log_example.java:24) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 18:01:44:918 main.Log_example.main(Log_example.java:25) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 18:01:44:919 main.Log_example.main(Log_example.java:26) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 18:01:44:919 main.Log_example.main(Log_example.java:27) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 18:01:44:919 main.Log_example.main(Log_example.java:28) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 18:05:28:753 main.Log_example.main(Log_example.java:24) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 18:05:28:755 main.Log_example.main(Log_example.java:25) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 18:05:28:755 main.Log_example.main(Log_example.java:26) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 18:05:28:755 main.Log_example.main(Log_example.java:27) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 18:05:28:755 main.Log_example.main(Log_example.java:28) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 18:05:57:116 main.Log_example.main(Log_example.java:24) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 18:05:57:118 main.Log_example.main(Log_example.java:25) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 18:05:57:118 main.Log_example.main(Log_example.java:26) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 18:05:57:118 main.Log_example.main(Log_example.java:27) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 18:05:57:119 main.Log_example.main(Log_example.java:28) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
+[DEBUG] 2019-03-13 18:20:25:251 main.Log_example.main(Log_example.java:18) root Log_example.java:main DEBUG - Debug message Two log Usuario: jose.perez
+[INFO] 2019-03-13 18:20:25:254 main.Log_example.main(Log_example.java:19) root Log_example.java:main INFO  - Info message Three log Modulo: pg001cja
+[WARN] 2019-03-13 18:20:25:254 main.Log_example.main(Log_example.java:20) root Log_example.java:main WARN  - Warn message Four log Transaccion: CJ0176767
+[ERROR] 2019-03-13 18:20:25:254 main.Log_example.main(Log_example.java:21) root Log_example.java:main ERROR - Error message Five log Operacion: pagoC01
+[FATAL] 2019-03-13 18:20:25:254 main.Log_example.main(Log_example.java:22) root Log_example.java:main FATAL - Fatal message Six log Version: v.1.0
